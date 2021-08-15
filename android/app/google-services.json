@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21988367537",
+    "firebase_url": "https://foodrecipe-a10af.firebaseio.com",
+    "project_id": "foodrecipe-a10af",
+    "storage_bucket": "foodrecipe-a10af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21988367537:android:d27ead85535eb5e3271690",
+        "android_client_info": {
+          "package_name": "com.example.foodrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21988367537-mquam3b5pc443vkum2jdf2ge5oqnhcko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx2Dm_9Y9-Vb8vuE1KZDXYeVGReyx2J0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21988367537-mquam3b5pc443vkum2jdf2ge5oqnhcko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
